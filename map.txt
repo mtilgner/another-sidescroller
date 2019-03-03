@@ -1,0 +1,56 @@
+@SIZE 1000 1000
+
+floor 0 -5
+floor 25 -5
+floor 54 -5
+floor 79 -5
+
+floor 0 -15
+floor 25 -15
+floor 54 -15
+floor 79 -15
+
+floor 0 5
+floor 25 5
+floor 54 5
+floor 79 5
+
+floor 0 15
+floor 25 15
+floor 54 15
+floor 79 15
+
+floor 0 25
+floor 25 25
+floor 54 25
+floor 79 25
+
+floor 0 35
+floor 25 35
+floor 54 35
+floor 79 35
+
+floor 0 45
+floor 25 45
+floor 54 45
+floor 79 45
+
+floor 0 55
+floor 25 55
+floor 54 55
+floor 79 55
+
+floor 0 65
+floor 25 65
+floor 54 65
+floor 79 65
+
+ladder 50 -5
+ladder 50 -15
+ladder 50 5
+ladder 50 15
+ladder 50 25
+ladder 50 35
+ladder 50 45
+ladder 50 55
+ladder 50 65

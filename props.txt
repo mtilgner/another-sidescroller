@@ -1,0 +1,22 @@
+@LAYER 0.2
+
+@PROP foundry
+texture pixelman/foundrysmall
+size 50 50
+isize 50 50 -25 -10
+
+@PROP foundrym
+texture pixelman/foundrysmallm
+size 50 50
+isize 50 50 -25 -10
+
+@LAYER*
+
+@PROP floor
+texture pixelman/floor
+size 25 5
+
+@PROP ladder
+texture pixelman/ladder
+size 4 10
+ladder
